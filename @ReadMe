@@ -1,0 +1,6 @@
+Pesudo Code
+
+Have each Trivia question be able to select a single answer for each
+HAve button that stops timer when all questions are answered
+write if-else statement to state which answer was correct and incorrect
+write function that counts the wins and losses, display in HTML
